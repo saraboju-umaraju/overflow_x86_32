@@ -1,0 +1,4 @@
+#include    <uma.h>
+int main (void) {
+		char buf[64] = "AAAAVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+}
